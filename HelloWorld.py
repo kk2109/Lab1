@@ -1,1 +1,1 @@
-print.("ET0735 - DevOps")
+print.("Welcome to ET0735")
